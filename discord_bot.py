@@ -13,7 +13,7 @@ from time import sleep
 
 # Get your token here: https://discord.com/developers/applications
 ### Your bot token goes here. Don't forget the "" at the beginning and the end.
-BOT_TOKEN = "Your token"
+BOT_TOKEN = "TOKEN"
 ### Decides the prefix of the bot. Default is "!". So for example to type the help command you would type !help.
 bot = commands.Bot(command_prefix='!')
 ### Bad words go in here. If users type these words in any message the message will be deleted and they lose 100 coins.
