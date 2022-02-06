@@ -1,3 +1,5 @@
+PLEASE NOTE: This is a rehosted copy of BlubiS's code. I have no way of contacting him so I rehosted the code here for modification. I'm new to Github so if there any issues hit me up on twitter.
+
 # Discord prediction/gambling bot
 Discord bot built using python. Get coins by playing different minigames or get lucky gambling.
 This bot also has a prediction command simular to Twitch predictions except you have multiple options instead of only 2.
